@@ -1,5 +1,4 @@
 # Pagina-web-do-zero-primeira-interacao
-# Prompt para Projeto
 
 **Tema:** Atrizes tailandesas (GL Thai)
 
@@ -22,8 +21,8 @@ Fãs de séries GL tailandesas, pessoas interessadas em conhecer novas atrizes e
 
 **Tecnologias utilizadas:**
 
-* HTML5 para a estrutura da aplicação.
-* CSS3 para estilização, responsividade e animações.
+* HTML para a estrutura da aplicação.
+* CSS para estilização, responsividade e animações.
 * JavaScript para interatividade, pesquisa dinâmica, filtros e manipulação do conteúdo.
 
 **Requisitos de design:**
